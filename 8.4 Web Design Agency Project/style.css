@@ -13,9 +13,39 @@ body {
 h1 {
   font-size: 5rem;
 }
+.card img{
+  width:300px;
+  float:left;
+  margin-right: 8%;
+}
+.card{
+  width:45%;
+}
+
+.left{
+ 
+  float:left;
+}
+.right{
+
+  float:right;
+}
 
 footer {
   text-align: right;
   color: midnightblue;
 }
 
+.creative{
+  color: blue;
+}
+
+@media (max-width:680px){
+  .left {
+    clear:left;
+    background-color: blue;
+  }
+  .right{
+    clear:right;
+  }
+}
