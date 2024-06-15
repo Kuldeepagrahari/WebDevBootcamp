@@ -1,0 +1,6 @@
+1.run: npm create vite@latest my-react-app --template react
+2. react
+3.Js
+4.go ahead into my-react-app
+5.npm i
+6.npm run dev
