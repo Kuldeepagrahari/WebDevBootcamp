@@ -1,0 +1,7 @@
+make a dir
+npm init
+npm i
+npm i express
+make a index.js
+write server in it
+start the server
